@@ -7,6 +7,7 @@
 	.st1{fill:#F90B28;}
 	.st2{font-family:'MyriadPro-Regular';}
 	.st3{font-size:36px;}
+	.st4{font-size:24px;}
 </style>
 <defs  xmlns="http://www.w3.org/1999/xhtml">
 	<style  type="text/css">
@@ -1370,4 +1371,5 @@ h3.table-hed { margin-top: 50px; margin-bottom: 50px; }
 	<circle class="st0" cx="-230.4" cy="50.8" r="13.7"/>
 	<circle class="st0" cx="-236.3" cy="103.4" r="13.7"/>
 </g>
+<text transform="matrix(1 0 0 1 229 364.51)" class="st2 st4">1/50</text>
 </svg>

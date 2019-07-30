@@ -7,6 +7,7 @@
 	.st1{fill:#EF0F20;}
 	.st2{font-family:'MyriadPro-Regular';}
 	.st3{font-size:36px;}
+	.st4{font-size:24px;}
 </style>
 <defs  xmlns="http://www.w3.org/1999/xhtml">
 	<style  type="text/css">
@@ -1420,4 +1421,5 @@ h3.table-hed { margin-top: 50px; margin-bottom: 50px; }
 	<circle class="st0" cx="-239.3" cy="110.1" r="10.7"/>
 </g>
 <text transform="matrix(1 0 0 1 167 64.07)" class="st2 st3">U.S. Senate</text>
+<text transform="matrix(1 0 0 1 224 368.51)" class="st2 st4">3/100</text>
 </svg>
