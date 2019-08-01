@@ -4,12 +4,11 @@
 	 viewBox="0 0 504 475.2" style="enable-background:new 0 0 504 475.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#C1C0BC;}
-	.st1{fill:#2B5D99;}
-	.st2{fill:#F90B28;}
+	.st1{fill:#F90B28;}
+	.st2{fill:#2B5D99;}
 	.st3{font-family:'MyriadPro-Regular';}
 	.st4{font-size:18px;}
 	.st5{font-size:14px;}
-	.st6{fill:#F8BFD8;}
 </style>
 <defs  xmlns="http://www.w3.org/1999/xhtml">
 	<style  type="text/css">
@@ -1758,11 +1757,9 @@ h3.table-hed { margin-top: 50px; margin-bottom: 50px; }
 <circle class="st0" cx="5.1" cy="429" r="5.1"/>
 <text transform="matrix(1 0 0 1 210 144.51)" class="st3 st4">U.S.  House</text>
 <text transform="matrix(1 0 0 1 112 43.51)" class="st3 st4">Seats Asian Americans Taken in 2019</text>
-<circle class="st2" cx="66.7" cy="69.6" r="5.1"/>
-<circle class="st1" cx="200.7" cy="69.6" r="5.1"/>
-<text transform="matrix(1 0 0 1 80 74.8927)" class="st3 st5">Democratic</text>
-<text transform="matrix(1 0 0 1 213 74.8927)" class="st3 st5">Republican</text>
-<circle class="st6" cx="331.4" cy="69.6" r="5.1"/>
-<text transform="matrix(1 0 0 1 343 74.8927)" class="st3 st5">Independent</text>
+<circle class="st2" cx="152.7" cy="69.6" r="5.1"/>
+<circle class="st1" cx="302.7" cy="69.6" r="5.1"/>
+<text transform="matrix(1 0 0 1 166 74.8927)" class="st3 st5">Democratic</text>
+<text transform="matrix(1 0 0 1 315 74.8927)" class="st3 st5">Republican</text>
 <text transform="matrix(1 0 0 1 224 431.51)" class="st3 st4">14/435</text>
 </svg>

@@ -21,6 +21,15 @@ h3 {
   letter-spacing: 0.5px;
   text-align: center;
 }
+
+.header p{
+  font-size: 18 px;
+  font-family: arial;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  border-left: 50px;
+}
+
 .body-text p {
   font-size: 18 px;
   font-family: arial;
