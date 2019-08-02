@@ -11,8 +11,7 @@
 	.st5{font-size:36px;}
 	.st6{fill:#020202;}
 	.st7{font-size:48px;}
-	.st8{enable-background:new    ;}
-	.st9{font-size:60px;}
+	.st8{font-size:60px;}
 </style>
 <rect x="166.7" y="283.6" class="st0" width="130.5" height="113.2"/>
 <rect x="1712.2" y="283.6" class="st0" width="130.5" height="113.2"/>
@@ -156,7 +155,9 @@
 <text transform="matrix(1 0 0 1 1323.6659 858.864)" class="st6 st2 st7">1.4</text>
 <text transform="matrix(1 0 0 1 1050.6659 860.864)" class="st6 st2 st7">0.2</text>
 <text transform="matrix(1 0 0 1 905.666 862.864)" class="st6 st2 st7">0.2</text>
-<text transform="matrix(1 0 0 1 135.6331 105.04)" class="st8"><tspan x="0" y="0" class="st2 st9">                       How Many Asian American Officials Elected In 2019?</tspan><tspan x="0" y="72" class="st2 st9">                                                </tspan><tspan x="800.2" y="72" class="st2 st7">( In Every 1,000,000 Americans) </tspan></text>
+<text transform="matrix(1 0 0 1 135.6331 105.04)" class="st2 st8">                       How Many Asian American Officials Elected In 2019?</text>
+<text transform="matrix(1 0 0 1 135.6331 177.04)" class="st2 st8">                                                </text>
+<text transform="matrix(1 0 0 1 935.8331 177.04)" class="st2 st7">( Per 1,000,000 Americans) </text>
 <text transform="matrix(1 0 0 1 643.2394 737.1215)" class="st6 st2 st7">1.7</text>
 <text transform="matrix(1 0 0 1 631.8456 983.6419)" class="st6 st2 st7">0.5</text>
 <text transform="matrix(1 0 0 1 1188.5433 1102.4512)" class="st6 st2 st7">0.5</text>
